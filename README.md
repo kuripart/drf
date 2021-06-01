@@ -42,7 +42,7 @@ CRUD is handled by `viewsets` in `rest_framework`
 
 Make use of routers to create endpoints to be accessed by app URLs
 
-- Code for routers goes in `app.py` in demo (main) app
+- Code for routers goes in `app.py` in drf (main) app
 - Add `path('api/v1/', include(router.urls))` to main app's `urls.py`
 
 
