@@ -29,7 +29,7 @@ python .\manage.py startapp demo
 
 Create models on which CRUD operations will take place
 
-DRF allows serailization to visualize data in models textaully
+DRF allows serailization to visualize data in models textually
 
 - Create `serializers.py` in the demo app
 - Make use of the `serializers` module in `rest_framework`
